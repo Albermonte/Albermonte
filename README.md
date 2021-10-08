@@ -1,4 +1,4 @@
-### Hi there 👋
+![Metrics](https://github.com/albermonte/albermonte/blob/main/github-metrics.svg)
 
 <!--
 **Albermonte/Albermonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
